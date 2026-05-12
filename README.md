@@ -2,7 +2,7 @@
 
 **ai implementation engineer** · building agents, tools & automation that work in the real world
 
-i work at the intersection of ai and web3 infrastructure. currently a support engineer at [quicknode](https://quicknode.com), one of the leading blockchain node providers, where i work across emea and build ai tooling on top of web3 infrastructure. my broader interest is in making ai genuinely useful in production: not demos, not wrappers, but systems that do real things reliably.
+i work at the intersection of ai and web3 infrastructure. currently on the engineering team at [quicknode](https://quicknode.com), one of the leading blockchain node providers, where i work across emea and build ai tooling on top of web3 infrastructure. my broader interest is in making ai genuinely useful in production: not demos, not wrappers, but systems that do real things reliably.
 
 my thesis: ai agents are the next billion users of the internet, and the tooling layer is being built right now.
 
@@ -40,10 +40,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 
 ### stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adamentwistle&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamentwistle&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-</p>
+<img src="https://streak-stats.demolab.com?user=adamentwistle&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamentwistle&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" width="100%" />
 
@@ -52,6 +49,3 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ### find me
 
 [linkedin](https://linkedin.com/in/YOUR_HANDLE) &nbsp;·&nbsp;
-[x / twitter](https://x.com/YOUR_HANDLE) &nbsp;·&nbsp;
-[quicknode](https://quicknode.com) &nbsp;·&nbsp;
-blackburn, uk
