@@ -29,6 +29,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
+### from the feed &nbsp;·&nbsp; 12 May 2026
+
+- [Ask HN: Why are so many rolling out their own AI/LLM agent sandboxing solution?](https://news.ycombinator.com/item?id=46699324)
+- [Ask HN: How are AI agents and LLMs delivering real value in your company?](https://news.ycombinator.com/item?id=42387760)
+- [Show HN: Mirror AI – LLM agent that takes action, not just chat](https://themirrorai.com)
+- [Show HN: Mnemosyne – Cognitive memory OS for AI agents (zero LLM calls)](https://github.com/28naem-del/mnemosyne)
+- [Show HN: Mnemora – Serverless memory DB for AI agents (no LLM in your CRUD path)](https://github.com/mnemora-db/mnemora)
 <!-- FEED:END -->
 
 ---
