@@ -38,7 +38,6 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 
 ---
 
-### from the feed
 
 <!-- FEED:START -->
 ### from the feed &nbsp;·&nbsp; 12 May 2026
@@ -63,4 +62,3 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ### find me
 
 [linkedin](https://linkedin.com/in/YOUR_HANDLE) &nbsp;·&nbsp;
-- [12 May 2026](2026/05/2026-05-12.md)
