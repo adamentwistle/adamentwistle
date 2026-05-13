@@ -121,34 +121,6 @@ def write_digest():
 
     print(f"wrote {filepath}: {len(hn_stories)} hn stories, {len(arxiv_papers)} arxiv papers")
 
-    update_index(date_str, display_date, filepath)
-
-
-def update_index(date_str, display_date, filepath):
-    index_path = "README.md"
-    link_line = f"- [{display_date}]({filepath})"
-
-    if os.path.exists(index_path):
-        with open(index_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        if date_str not in content:
-            marker = "<!-- ENTRIES -->"
-            if marker in content:
-                content = content.replace(marker, f"{marker}\n{link_line}")
-            else:
-                content = content.rstrip() + f"\n{link_line}\n"
-            with open(index_path, "w", encoding="utf-8") as f:
-                f.write(content)
-    else:
-        with open(index_path, "w", encoding="utf-8") as f:
-            f.write(
-                "# ai-agent-digest\n\n"
-                "daily digest of AI agent and LLM news, auto-generated via github actions.\n\n"
-                "## entries\n\n"
-                f"<!-- ENTRIES -->\n{link_line}\n"
-            )
-
-
 if __name__ == "__main__":
     import urllib.parse
     write_digest()
