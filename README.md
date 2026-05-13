@@ -51,3 +51,4 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ### find me
 
 [linkedin](https://linkedin.com/in/YOUR_HANDLE) &nbsp;·&nbsp;
+- [13 May 2026](2026/05/2026-05-13.md)
