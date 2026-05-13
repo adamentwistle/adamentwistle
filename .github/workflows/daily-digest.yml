@@ -26,8 +26,8 @@ jobs:
 
       - name: commit digest
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "adamentwistle"
+          git config user.email "adamentwistle@users.noreply.github.com"
           git diff --quiet && git diff --staged --quiet \
             || (git add . \
             && git commit -m "digest: $(date +'%Y-%m-%d') [skip ci]" \
