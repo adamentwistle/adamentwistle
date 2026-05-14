@@ -29,7 +29,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 13 May 2026
+### from the feed &nbsp;·&nbsp; 14 May 2026
 
 - [Ask HN: Why are so many rolling out their own AI/LLM agent sandboxing solution?](https://news.ycombinator.com/item?id=46699324)
 - [Ask HN: How are AI agents and LLMs delivering real value in your company?](https://news.ycombinator.com/item?id=42387760)
