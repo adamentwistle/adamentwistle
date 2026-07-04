@@ -109,9 +109,15 @@ def search_github(query, existing_urls):
 
 def search_hn(query, existing_urls, n=4):
     encoded = urllib.parse.quote(query)
+    # search_by_date + a created_at floor: /search ranks by relevance with no
+    # date filter, so candidates could be years old. points>20 keeps the
+    # recency window from surfacing noise.
+    week_ago = int(datetime.now(timezone.utc).timestamp()) - 7 * 86400
+    filters = urllib.parse.quote(f"created_at_i>{week_ago},points>20")
     url = (
-        f"https://hn.algolia.com/api/v1/search"
-        f"?query={encoded}&tags=story&hitsPerPage=20"
+        f"https://hn.algolia.com/api/v1/search_by_date"
+        f"?query={encoded}&tags=story&hitsPerPage=50"
+        f"&numericFilters={filters}"
     )
     try:
         with urllib.request.urlopen(url, timeout=10) as r:

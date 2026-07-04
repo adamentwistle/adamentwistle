@@ -6,9 +6,15 @@ from datetime import datetime, timezone
 
 def fetch_stories(query, n=6):
     encoded = urllib.parse.quote(query)
+    # search_by_date + a created_at floor: /search ranks by relevance with no
+    # date filter, so digests carried years-old stories. points>20 keeps the
+    # recency window from surfacing noise.
+    week_ago = int(datetime.now(timezone.utc).timestamp()) - 7 * 86400
+    filters = urllib.parse.quote(f"created_at_i>{week_ago},points>20")
     url = (
-        f"https://hn.algolia.com/api/v1/search"
-        f"?query={encoded}&tags=story&hitsPerPage=20"
+        f"https://hn.algolia.com/api/v1/search_by_date"
+        f"?query={encoded}&tags=story&hitsPerPage=50"
+        f"&numericFilters={filters}"
     )
     try:
         with urllib.request.urlopen(url, timeout=10) as r:

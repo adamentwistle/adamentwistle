@@ -1,4 +1,5 @@
 import json
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -8,9 +9,15 @@ MARKER_END = "<!-- FEED:END -->"
 
 
 def fetch_ai_stories(n=5):
+    # search_by_date + a created_at floor: the plain /search endpoint ranks by
+    # relevance with no date filter, so the feed showed years-old stories under
+    # today's date. points>20 keeps the recency window from surfacing noise.
+    week_ago = int(datetime.now(timezone.utc).timestamp()) - 7 * 86400
+    filters = urllib.parse.quote(f"created_at_i>{week_ago},points>20")
     url = (
-        "https://hn.algolia.com/api/v1/search"
-        "?query=ai+agents+llm&tags=story&hitsPerPage=15"
+        "https://hn.algolia.com/api/v1/search_by_date"
+        f"?query=ai+agents+llm&tags=story&hitsPerPage=30"
+        f"&numericFilters={filters}"
     )
     try:
         with urllib.request.urlopen(url, timeout=10) as r:
