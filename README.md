@@ -40,10 +40,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 04 Jul 2026
+### from the feed &nbsp;·&nbsp; 05 Jul 2026
 
 - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
-- [Micro-Agent: Beat Frontier Models with Collaboration Inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
 <!-- FEED:END -->
 
 ---
