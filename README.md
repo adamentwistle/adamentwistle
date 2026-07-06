@@ -40,8 +40,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 05 Jul 2026
+### from the feed &nbsp;·&nbsp; 06 Jul 2026
 
+- [Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS](https://cooked.house)
 - [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 <!-- FEED:END -->
 
