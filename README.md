@@ -52,7 +52,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 
 ### stats
 
-<img src="https://streak-stats.demolab.com?user=adamentwistle&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="100%" />
+<img src="https://streak-stats.demolab.com?user=adamentwistle&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_bust=2" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamentwistle&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" width="100%" />
 
