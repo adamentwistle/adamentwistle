@@ -23,7 +23,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 
 ### selected work
 
+- **[fable-skills](https://github.com/adamentwistle/fable-skills)** · 35 engineering-discipline skills authored by fable 5, plus a blind-graded benchmark. sonnet 5 loaded with the skills beat opus 4.8 running bare; both models improve in every area. no deps, mit.
 - **[agent-eng-kit](https://github.com/adamentwistle/agent-eng-kit)** · small stdlib-only tools for agent engineering: a prompt-injection gauntlet, an mcp record/replay proxy, a session profiler, a context packer, an mcp doctor. no deps, no keys, mit.
+- **[legwork](https://github.com/adamentwistle/legwork)** · a project queue for claude code that survives you walking away. `/wrap` mints the next prompt while context is hot; `/pickup` briefs you back in thirty seconds. install as a plugin, or clone for the static dashboard and the optional unattended runner.
 - **[claude-code-tools](https://github.com/adamentwistle/claude-code-tools)** · zero-config doc linters for claude code projects.
 
 ---
