@@ -42,11 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 08 Jul 2026
-
-- [Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop](https://github.com/rowboatlabs/rowboat)
-- [Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS](https://cooked.house)
-- [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
+<!-- refreshed 09 Jul 2026, no stories fetched -->
 <!-- FEED:END -->
 
 ---
