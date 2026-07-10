@@ -42,7 +42,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-<!-- refreshed 09 Jul 2026, no stories fetched -->
+### from the feed &nbsp;·&nbsp; 10 Jul 2026
+
+- [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
+- [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
+- [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
+- [Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)
+- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 <!-- FEED:END -->
 
 ---
