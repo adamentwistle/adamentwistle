@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 10 Jul 2026
+### from the feed &nbsp;·&nbsp; 11 Jul 2026
 
 - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
 - [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
