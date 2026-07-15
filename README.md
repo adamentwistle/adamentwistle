@@ -42,13 +42,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 14 Jul 2026
+### from the feed &nbsp;·&nbsp; 15 Jul 2026
 
+- [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
+- [Show HN: Oodle.ai – $10 per million agent traces](https://www.oodle.ai/product/agent-observability)
+- [Show HN: Self-hosted voice AI agent for Asterisk/FreePBX](https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk)
+- [Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE](https://github.com/juggler-ai/juggler)
 - [Show HN: I built a web tool to see and edit what an AI thinks before it answers](https://lucid.earthpilot.ai)
-- [Show HN: Devthropology – Better Insights for GitHub Repos](https://devthropology.com/demo)
-- [Show HN: Reverse-engineering web apps into agent tools](https://news.ycombinator.com/item?id=48847834)
-- [Ask HN: Another "Hacker News" with less AI and more human-focused hacking news?](https://news.ycombinator.com/item?id=48834961)
-- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 <!-- FEED:END -->
 
 ---
