@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 15 Jul 2026
+### from the feed &nbsp;·&nbsp; 16 Jul 2026
 
 - [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
 - [Show HN: Oodle.ai – $10 per million agent traces](https://www.oodle.ai/product/agent-observability)
