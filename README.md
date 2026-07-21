@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 20 Jul 2026
+### from the feed &nbsp;·&nbsp; 21 Jul 2026
 
 - [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
 - [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
