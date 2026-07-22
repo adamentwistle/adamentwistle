@@ -42,12 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 21 Jul 2026
+### from the feed &nbsp;·&nbsp; 22 Jul 2026
 
 - [Show HN: Libretto PR agents – Automatically fix failing playwright scripts](https://libretto.sh/debug-agents)
-- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-- [Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations](https://agnost.ai)
-- [Show HN: Oodle.ai – $10 per million agent traces](https://www.oodle.ai/product/agent-observability)
 <!-- FEED:END -->
 
 ---
