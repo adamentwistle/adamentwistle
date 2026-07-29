@@ -42,12 +42,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 28 Jul 2026
+### from the feed &nbsp;·&nbsp; 29 Jul 2026
 
+- [Show HN: Flashpaper – Self-destructing secret sharing with no database](https://flashpaper.app/)
+- [Show HN: Tines 3B – safe workflow automation for when everyone builds software](https://www.tines.com/)
+- [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)
 - [Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](https://news.ycombinator.com/item?id=49024620)
 - [Show HN: Palmier Pro – Open-source macOS video editor built for AI](https://github.com/palmier-io/palmier-pro)
-- [Show HN: Yorishiro – a macOS terminal where AI agents live](https://github.com/sktkkoo/Yorishiro)
-- [Show HN: I left Figma to build a diffusion-based UI design tool](https://diffui.ai/blog/show-hn)
 <!-- FEED:END -->
 
 ---
