@@ -42,13 +42,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 30 Jul 2026
+### from the feed &nbsp;·&nbsp; 31 Jul 2026
 
+- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
 - [Show HN: Flashpaper – Self-destructing secret sharing with no database](https://flashpaper.app/)
 - [Show HN: Tines 3B – safe workflow automation for when everyone builds software](https://www.tines.com/)
 - [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)
-- [Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents](https://news.ycombinator.com/item?id=49024620)
 <!-- FEED:END -->
 
 ---
