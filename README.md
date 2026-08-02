@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 01 Aug 2026
+### from the feed &nbsp;·&nbsp; 02 Aug 2026
 
 - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
