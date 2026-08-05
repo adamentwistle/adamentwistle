@@ -42,13 +42,12 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 04 Aug 2026
+### from the feed &nbsp;·&nbsp; 05 Aug 2026
 
+- [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
 - [Show HN: Hacker News with AI stories filtered out](https://hcker.news/?view=frontpage&ai=exclude)
 - [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 - [Launch HN: Tokenless (YC S26) – Automatic model switching to save money](https://usetokenless.com/)
-- [Show HN: Flashpaper – Self-destructing secret sharing with no database](https://flashpaper.app/)
-- [Show HN: Tines 3B – safe workflow automation for when everyone builds software](https://www.tines.com/)
 <!-- FEED:END -->
 
 ---
