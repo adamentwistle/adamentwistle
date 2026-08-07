@@ -42,13 +42,11 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 06 Aug 2026
+### from the feed &nbsp;·&nbsp; 07 Aug 2026
 
 - [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
 - [Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod](https://www.hyperprobe.co)
 - [Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research](https://edotenv.com/)
-- [Show HN: Hacker News with AI stories filtered out](https://hcker.news/?view=frontpage&ai=exclude)
-- [Show HN: What should the GUI for AI agents look like?](https://marbleos.com/demo)
 <!-- FEED:END -->
 
 ---
