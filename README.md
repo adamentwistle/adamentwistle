@@ -42,9 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 16 Aug 2026
-
-- [Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials](https://discoveredmaterials.com/research/)
+<!-- refreshed 17 Aug 2026, no stories fetched -->
 <!-- FEED:END -->
 
 ---
