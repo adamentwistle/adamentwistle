@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 18 Aug 2026
+### from the feed &nbsp;·&nbsp; 19 Aug 2026
 
 - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 <!-- FEED:END -->
