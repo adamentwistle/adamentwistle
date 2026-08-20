@@ -42,8 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 19 Aug 2026
+### from the feed &nbsp;·&nbsp; 20 Aug 2026
 
+- [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 - [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 <!-- FEED:END -->
 
