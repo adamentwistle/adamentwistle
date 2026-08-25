@@ -42,12 +42,11 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 24 Aug 2026
+### from the feed &nbsp;·&nbsp; 25 Aug 2026
 
 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 - [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
-- [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/)
 <!-- FEED:END -->
 
 ---
