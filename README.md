@@ -42,11 +42,11 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 26 Aug 2026
+### from the feed &nbsp;·&nbsp; 27 Aug 2026
 
+- [Tell HN: Man, AI is killing my brain](https://news.ycombinator.com/item?id=49468252)
 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
 - [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
-- [Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams](https://github.com/onecli/onecli)
 <!-- FEED:END -->
 
 ---
