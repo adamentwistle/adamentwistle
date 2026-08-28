@@ -42,11 +42,10 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 27 Aug 2026
+### from the feed &nbsp;·&nbsp; 28 Aug 2026
 
 - [Tell HN: Man, AI is killing my brain](https://news.ycombinator.com/item?id=49468252)
 - [Show HN: OzBrain, a shared brain for knowledge between agents and your team](https://ozbrain.com)
-- [Show HN: Huzzah – a novel approach to coding with AI](https://www.danielvaughn.dev/posts/huzzah/)
 <!-- FEED:END -->
 
 ---
