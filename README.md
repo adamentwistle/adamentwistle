@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 29 Aug 2026
+### from the feed &nbsp;·&nbsp; 30 Aug 2026
 
 - [Tell HN: Man, AI is killing my brain](https://news.ycombinator.com/item?id=49468252)
 <!-- FEED:END -->
