@@ -42,9 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 05 Sep 2026
-
-- [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
+<!-- refreshed 06 Sep 2026, no stories fetched -->
 <!-- FEED:END -->
 
 ---
