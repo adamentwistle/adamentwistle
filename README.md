@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-<!-- refreshed 08 Sep 2026, no stories fetched -->
+<!-- refreshed 09 Sep 2026, no stories fetched -->
 <!-- FEED:END -->
 
 ---
