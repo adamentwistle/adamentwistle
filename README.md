@@ -42,8 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 13 Sep 2026
+### from the feed &nbsp;·&nbsp; 14 Sep 2026
 
+- [Ask HN: Are we losing our engineering literacy?](https://news.ycombinator.com/item?id=49685036)
 - [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
 <!-- FEED:END -->
 
