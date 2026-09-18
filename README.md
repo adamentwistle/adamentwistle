@@ -42,8 +42,11 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 17 Sep 2026
+### from the feed &nbsp;·&nbsp; 18 Sep 2026
 
+- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+- [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049)
+- [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app)
 - [Ask HN: Are we losing our engineering literacy?](https://news.ycombinator.com/item?id=49685036)
 - [Show HN: Godot and Rust based multiplexer (terminal panes and more)](https://github.com/godot-pty/gpty)
 <!-- FEED:END -->
