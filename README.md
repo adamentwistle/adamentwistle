@@ -42,9 +42,8 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 21 Sep 2026
+### from the feed &nbsp;·&nbsp; 22 Sep 2026
 
-- [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
 - [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/)
 - [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049)
 - [Show HN: SeasonMap – when to travel where? visualized with climate data](https://seasonmap.app)
