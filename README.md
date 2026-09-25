@@ -42,13 +42,12 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 24 Sep 2026
+### from the feed &nbsp;·&nbsp; 25 Sep 2026
 
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
 - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
 - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
 - [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369)
-- [Show HN: Scry, programmable internet search w/ congestion pricing](https://scry.io/)
-- [Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents](https://news.ycombinator.com/item?id=49743049)
 <!-- FEED:END -->
 
 ---
