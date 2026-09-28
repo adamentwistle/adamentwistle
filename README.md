@@ -42,13 +42,13 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 27 Sep 2026
+### from the feed &nbsp;·&nbsp; 28 Sep 2026
 
+- [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/)
 - [Understanding the Impact of LLM Watermarking on AI Agent Behavior](https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior)
 - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
 - [Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent](https://www.coveragecat.com/)
 - [Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why](https://ai-rete-rag.com/)
-- [Show HN: Training a model to identify AI web content from structure alone](https://arxiv.org/abs/2609.15369)
 <!-- FEED:END -->
 
 ---
