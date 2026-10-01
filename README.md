@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 30 Sep 2026
+### from the feed &nbsp;·&nbsp; 01 Oct 2026
 
 - [Show HN: HN.watch – Videos of all Hacker News posts](https://hn.watch/)
 - [Show HN: OpenAPPA – open-source deterministic guardrails that don't break agents](https://www.openappa.com/)
