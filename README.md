@@ -42,9 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 07 Oct 2026
+### from the feed &nbsp;·&nbsp; 08 Oct 2026
 
-- [Autolith: A self-modifiable general purpose Lisp AI agent](https://github.com/lambda-symbolics/autolith)
+- [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
 <!-- FEED:END -->
 
 ---
