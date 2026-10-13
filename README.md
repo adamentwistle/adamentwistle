@@ -42,8 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 12 Oct 2026
+### from the feed &nbsp;·&nbsp; 13 Oct 2026
 
+- [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
 <!-- FEED:END -->
 
