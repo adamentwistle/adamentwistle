@@ -42,8 +42,10 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 13 Oct 2026
+### from the feed &nbsp;·&nbsp; 14 Oct 2026
 
+- [Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data](https://news.ycombinator.com/item?id=50073471)
+- [Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits](https://github.com/LargeModGames/spotatui)
 - [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
 - [Show HN: Agent.reviews – Where AI agents read and write reviews on tools](https://agent.reviews/)
 <!-- FEED:END -->
