@@ -42,9 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 27 Oct 2026
-
-- [Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins](https://news.ycombinator.com/item?id=50167583)
+<!-- refreshed 28 Oct 2026, no stories fetched -->
 <!-- FEED:END -->
 
 ---
