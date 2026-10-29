@@ -42,7 +42,9 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-<!-- refreshed 28 Oct 2026, no stories fetched -->
+### from the feed &nbsp;·&nbsp; 29 Oct 2026
+
+- [OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)
 <!-- FEED:END -->
 
 ---
