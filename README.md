@@ -42,7 +42,7 @@ my thesis: ai agents are the next billion users of the internet, and the tooling
 ---
 
 <!-- FEED:START -->
-### from the feed &nbsp;·&nbsp; 03 Nov 2026
+### from the feed &nbsp;·&nbsp; 04 Nov 2026
 
 - [Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app](https://momentic.ai/)
 - [Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents](https://news.ycombinator.com/item?id=50291116)
