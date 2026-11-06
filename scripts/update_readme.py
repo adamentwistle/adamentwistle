@@ -46,7 +46,7 @@ def build_section(stories, date_str):
     lines = "\n".join(stories)
     return (
         f"{MARKER_START}\n"
-        f"### from the feed &nbsp;·&nbsp; {date_str}\n\n"
+        f'### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>{date_str}</sub>\n\n'
         f"{lines}\n"
         f"{MARKER_END}"
     )
