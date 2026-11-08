@@ -54,7 +54,7 @@ wrapped, but for your claude code usage. run it, get a share card, find out if y
 <img src="assets/telemetry.svg" width="100%" alt="github stats: total stars, contributions in the last twelve months, public repos, current day streak and a heatmap of the last year" />
 
 <!-- FEED:START -->
-### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>07 Nov 2026</sub>
+### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>08 Nov 2026</sub>
 
 - [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
 - [Stop running everything through LLMs: How I fixed my research agent](https://www.tinyfish.ai/blog/inside-tinyresearch)
