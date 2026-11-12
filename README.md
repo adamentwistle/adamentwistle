@@ -54,13 +54,12 @@ wrapped, but for your claude code usage. run it, get a share card, find out if y
 <img src="assets/telemetry.svg" width="100%" alt="github stats: total stars, contributions in the last twelve months, public repos, current day streak and a heatmap of the last year" />
 
 <!-- FEED:START -->
-### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>11 Nov 2026</sub>
+### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>12 Nov 2026</sub>
 
+- [Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents](https://news.ycombinator.com/item?id=50455811)
 - [Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
 - [Stop running everything through LLMs: How I fixed my research agent](https://www.tinyfish.ai/blog/inside-tinyresearch)
 - [Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3](https://github.com/rivet-dev/rivet)
-- [Show HN: Gauge – Open-Source CLI to recursively improve your docs](https://github.com/gauge-sh/gauge-cli)
-- [Launch HN: Kino AI (YC S23) – AI media manager and video editor](https://news.ycombinator.com/item?id=50368804)
 <!-- FEED:END -->
 
 ### <img src="assets/h-ground-crew.svg" width="275" alt="ground crew" />
