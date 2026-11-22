@@ -54,7 +54,7 @@ wrapped, but for your claude code usage. run it, get a share card, find out if y
 <img src="assets/telemetry.svg" width="100%" alt="github stats: total stars, contributions in the last twelve months, public repos, current day streak and a heatmap of the last year" />
 
 <!-- FEED:START -->
-### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>21 Nov 2026</sub>
+### <img src="assets/h-arrivals.svg" width="200" alt="arrivals" /> &nbsp;<sub>22 Nov 2026</sub>
 
 - [Launch HN: Maritime (YC F26) – A managed cloud for production AI agents](https://news.ycombinator.com/item?id=50549188)
 - [Show HN: Mastra Factory, the open-source software factory we use to build Mastra](https://news.ycombinator.com/item?id=50548660)
