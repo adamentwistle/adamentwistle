@@ -3,6 +3,8 @@ name: daily digest
 on:
   schedule:
     - cron: '0 7 * * *'
+    # backup run, in case github skips or delays the morning one
+    - cron: '0 19 * * *'
   workflow_dispatch:
 
 permissions:
@@ -24,11 +26,12 @@ jobs:
       - name: fetch and write digest
         run: python scripts/fetch_digest.py
 
+      # stage first: the digest is a new file each day, and git diff ignores
+      # untracked files, so checking before staging never committed anything
       - name: commit digest
         run: |
           git config user.name "adamentwistle"
           git config user.email "adamentwistle@users.noreply.github.com"
-          git diff --quiet && git diff --staged --quiet \
-            || (git add . \
-            && git commit -m "digest: $(date +'%Y-%m-%d') [skip ci]" \
-            && git push)
+          git add .
+          git diff --staged --quiet \
+            || (git commit -m "digest: $(date -u +'%Y-%m-%d') [skip ci]" && git push)
